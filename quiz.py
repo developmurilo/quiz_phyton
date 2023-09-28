@@ -12,7 +12,7 @@ print('10 : Tatooine')
 print('11 : Makemake')
 print('12 : Marte')
 planet = int(input('digite um numero correspondente:'))
-ct = 0
+ct = 1
 while planet >= 2:
    if planet >= 2:
     print('Oh, não! Parece que você acertou o botão de autodestruição do foguete de conhecimento! 🚀💥 Tente novamente e não se preocupe, você não explodirá desta vez! 😄')
